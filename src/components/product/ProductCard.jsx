@@ -3,7 +3,7 @@ import vector from "../../assets/icons/Vector (1).png";
 
 const ProductCard = ({ img }) => {
   return (
-    <div className="w-[31%] h-[400px] bg-[#D9D9D9]   ">
+    <div className="w-[31%] h-[400px] bg-[#D9D9D9]    ">
       <div className="block w-[300px] h-[240px] p-8 mt-2  ">
         <img src={img} alt="" />
       </div>
